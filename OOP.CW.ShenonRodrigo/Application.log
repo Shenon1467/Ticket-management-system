@@ -1,0 +1,1130 @@
+Dec 12, 2024 8:22:03 AM org.example.Configure.Appconfiguration saveConfiguration
+INFO: Configuration saved successfully
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 3
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 4
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 4
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 5
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 5
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 4
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 10) bought ticket: Vendor- 4-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 4
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 3
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 9) bought ticket: Vendor- 2-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 8) bought ticket: Vendor- 1-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 7) bought ticket: Vendor- 3-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 6) bought ticket: Vendor- 5-T0
+Dec 12, 2024 8:22:03 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:03 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 5) bought ticket: Vendor- 1-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 3
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 2-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 4) bought ticket: Vendor- 4-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 3) bought ticket: Vendor- 3-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:04 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 5-T1
+Dec 12, 2024 8:22:04 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 10) bought ticket: Vendor- 1-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 3
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 9) bought ticket: Vendor- 3-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 3
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 8) bought ticket: Vendor- 4-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 7) bought ticket: Vendor- 2-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:05 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 6) bought ticket: Vendor- 5-T2
+Dec 12, 2024 8:22:05 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 5) bought ticket: Vendor- 1-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 4) bought ticket: Vendor- 2-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 3-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 3) bought ticket: Vendor- 4-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 5-T3
+Dec 12, 2024 8:22:06 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 10) bought ticket: Vendor- 1-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 9) bought ticket: Vendor- 2-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 8) bought ticket: Vendor- 3-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 7) bought ticket: Vendor- 5-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:07 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 6) bought ticket: Vendor- 4-T4
+Dec 12, 2024 8:22:07 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 5) bought ticket: Vendor- 2-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 4) bought ticket: Vendor- 1-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 3
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 3-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 3) bought ticket: Vendor- 5-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:08 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 4-T5
+Dec 12, 2024 8:22:08 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 10) bought ticket: Vendor- 2-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 9) bought ticket: Vendor- 1-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 2
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 8) bought ticket: Vendor- 3-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 7) bought ticket: Vendor- 5-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:09 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 6) bought ticket: Vendor- 4-T6
+Dec 12, 2024 8:22:09 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 4) bought ticket: Vendor- 2-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 5) bought ticket: Vendor- 1-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 3-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 3) bought ticket: Vendor- 5-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:10 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 4-T7
+Dec 12, 2024 8:22:10 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 10) bought ticket: Vendor- 2-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 9) bought ticket: Vendor- 1-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 8) bought ticket: Vendor- 3-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 7) bought ticket: Vendor- 5-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:11 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 6) bought ticket: Vendor- 4-T8
+Dec 12, 2024 8:22:11 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 4) bought ticket: Vendor- 2-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 5) bought ticket: Vendor- 1-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 5) released ticket: Vendor- 5-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 5-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 3) released ticket: Vendor- 3-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 3) bought ticket: Vendor- 3-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 4) released ticket: Vendor- 4-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:22:12 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 4-T9
+Dec 12, 2024 8:22:12 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:22:13 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:13 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:13 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:13 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:13 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:14 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:14 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:14 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:14 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:22:14 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:24:16 AM org.example.Configure.Appconfiguration saveConfiguration
+INFO: Configuration saved successfully
+Dec 12, 2024 8:24:16 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:24:16 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:24:16 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:24:16 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T0
+Dec 12, 2024 8:24:16 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:24:16 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:24:16 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T0
+Dec 12, 2024 8:24:16 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:24:16 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:24:16 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:24:16 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T0
+Dec 12, 2024 8:24:16 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:24:16 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:24:16 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T0
+Dec 12, 2024 8:24:16 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:24:17 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:24:17 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T1
+Dec 12, 2024 8:24:17 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:24:17 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 2
+Dec 12, 2024 8:24:17 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T1
+Dec 12, 2024 8:24:17 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:24:18 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 3
+Dec 12, 2024 8:24:18 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T2
+Dec 12, 2024 8:24:18 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:24:18 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 4
+Dec 12, 2024 8:24:18 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T2
+Dec 12, 2024 8:24:18 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 4
+Dec 12, 2024 8:24:19 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 5
+Dec 12, 2024 8:24:19 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T3
+Dec 12, 2024 8:24:19 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 5
+Dec 12, 2024 8:24:19 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 6
+Dec 12, 2024 8:24:19 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T3
+Dec 12, 2024 8:24:19 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 6
+Dec 12, 2024 8:24:20 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 7
+Dec 12, 2024 8:24:20 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T4
+Dec 12, 2024 8:24:20 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 7
+Dec 12, 2024 8:24:20 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 8
+Dec 12, 2024 8:24:20 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T4
+Dec 12, 2024 8:24:20 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 8
+Dec 12, 2024 8:24:21 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 9
+Dec 12, 2024 8:24:21 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T5
+Dec 12, 2024 8:24:21 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:24:21 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:24:21 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T5
+Dec 12, 2024 8:24:21 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:24:22 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:22 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:26 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:24:26 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T1
+Dec 12, 2024 8:24:26 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:24:26 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:24:26 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T6
+Dec 12, 2024 8:24:26 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:24:26 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:24:26 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T1
+Dec 12, 2024 8:24:26 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:24:26 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:24:26 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T6
+Dec 12, 2024 8:24:26 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:24:27 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:27 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:36 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:24:36 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T2
+Dec 12, 2024 8:24:36 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:24:36 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:24:36 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T7
+Dec 12, 2024 8:24:36 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:24:36 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:36 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:24:36 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T2
+Dec 12, 2024 8:24:36 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:24:36 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:24:36 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T7
+Dec 12, 2024 8:24:36 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:24:37 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:37 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:46 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:24:46 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T3
+Dec 12, 2024 8:24:46 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:24:46 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:24:46 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T8
+Dec 12, 2024 8:24:46 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:24:46 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:46 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:24:46 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T3
+Dec 12, 2024 8:24:46 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:24:46 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:24:46 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T8
+Dec 12, 2024 8:24:46 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:24:47 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:47 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:56 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:24:56 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T4
+Dec 12, 2024 8:24:56 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:24:56 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:24:56 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T9
+Dec 12, 2024 8:24:56 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:24:56 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:24:56 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:24:56 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T4
+Dec 12, 2024 8:24:56 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:24:56 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:24:56 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T9
+Dec 12, 2024 8:24:56 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:25:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:25:06 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T5
+Dec 12, 2024 8:25:06 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:25:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 8
+Dec 12, 2024 8:25:06 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T5
+Dec 12, 2024 8:25:06 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 8
+Dec 12, 2024 8:25:16 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 7
+Dec 12, 2024 8:25:16 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T6
+Dec 12, 2024 8:25:16 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 7
+Dec 12, 2024 8:25:16 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 6
+Dec 12, 2024 8:25:16 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T6
+Dec 12, 2024 8:25:16 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 6
+Dec 12, 2024 8:25:26 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 5
+Dec 12, 2024 8:25:26 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T7
+Dec 12, 2024 8:25:26 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 5
+Dec 12, 2024 8:25:26 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 4
+Dec 12, 2024 8:25:26 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T7
+Dec 12, 2024 8:25:26 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 4
+Dec 12, 2024 8:25:36 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 3
+Dec 12, 2024 8:25:36 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T8
+Dec 12, 2024 8:25:36 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:25:36 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 2
+Dec 12, 2024 8:25:36 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T8
+Dec 12, 2024 8:25:36 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:25:46 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 1
+Dec 12, 2024 8:25:46 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T9
+Dec 12, 2024 8:25:46 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:25:46 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:25:46 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 2) bought ticket: Vendor- 2-T9
+Dec 12, 2024 8:25:46 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:25:56 AM org.example.Main main
+INFO: Program has terminated.
+Dec 12, 2024 8:27:06 AM org.example.Configure.Appconfiguration saveConfiguration
+INFO: Configuration saved successfully
+Dec 12, 2024 8:27:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Waiting for ticket to be released ...
+Dec 12, 2024 8:27:06 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:27:06 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T0
+Dec 12, 2024 8:27:06 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:27:06 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 0
+Dec 12, 2024 8:27:06 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T0
+Dec 12, 2024 8:27:06 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 0
+Dec 12, 2024 8:27:06 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 1
+Dec 12, 2024 8:27:06 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T0
+Dec 12, 2024 8:27:06 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 1
+Dec 12, 2024 8:27:07 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 2
+Dec 12, 2024 8:27:07 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T1
+Dec 12, 2024 8:27:07 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 2
+Dec 12, 2024 8:27:07 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 3
+Dec 12, 2024 8:27:07 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T1
+Dec 12, 2024 8:27:07 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 3
+Dec 12, 2024 8:27:08 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 4
+Dec 12, 2024 8:27:08 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T2
+Dec 12, 2024 8:27:08 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 4
+Dec 12, 2024 8:27:08 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 5
+Dec 12, 2024 8:27:08 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T2
+Dec 12, 2024 8:27:08 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 5
+Dec 12, 2024 8:27:09 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 6
+Dec 12, 2024 8:27:09 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T3
+Dec 12, 2024 8:27:09 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 6
+Dec 12, 2024 8:27:09 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 7
+Dec 12, 2024 8:27:09 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T3
+Dec 12, 2024 8:27:09 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 7
+Dec 12, 2024 8:27:10 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 8
+Dec 12, 2024 8:27:10 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T4
+Dec 12, 2024 8:27:10 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 8
+Dec 12, 2024 8:27:10 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 9
+Dec 12, 2024 8:27:10 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T4
+Dec 12, 2024 8:27:10 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:27:11 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:27:11 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T5
+Dec 12, 2024 8:27:11 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:27:11 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:12 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:16 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:27:16 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 2-T0
+Dec 12, 2024 8:27:16 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:27:16 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:27:16 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T5
+Dec 12, 2024 8:27:16 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:27:16 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:17 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:26 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:27:26 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T1
+Dec 12, 2024 8:27:26 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:27:26 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:27:26 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T6
+Dec 12, 2024 8:27:26 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:27:26 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:27 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:36 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:27:36 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 2-T1
+Dec 12, 2024 8:27:36 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:27:36 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:27:36 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T6
+Dec 12, 2024 8:27:36 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:27:36 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:37 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:46 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:27:46 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 1-T2
+Dec 12, 2024 8:27:46 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:27:46 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:27:46 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 1) released ticket: Vendor- 1-T7
+Dec 12, 2024 8:27:46 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:27:46 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:47 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:56 AM org.example.Ticket.TicketPool buyTicket
+INFO: Ticket removed from pool. Current Size of Queue: 9
+Dec 12, 2024 8:27:56 AM org.example.Threads.Customer run
+INFO: Customer (Customer- 1) bought ticket: Vendor- 2-T2
+Dec 12, 2024 8:27:56 AM org.example.Threads.Customer run
+INFO: Tickets remaining in pool: 9
+Dec 12, 2024 8:27:56 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket added to pool. Current Size of Queue: 10
+Dec 12, 2024 8:27:56 AM org.example.Threads.Vendor run
+INFO: Vendor (Vendor- 2) released ticket: Vendor- 2-T7
+Dec 12, 2024 8:27:56 AM org.example.Threads.Vendor run
+INFO: Tickets remaining in pool: 10
+Dec 12, 2024 8:27:56 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
+Dec 12, 2024 8:27:57 AM org.example.Ticket.TicketPool addTicket
+INFO: Ticket pool full. Vendor inline to release tickets
